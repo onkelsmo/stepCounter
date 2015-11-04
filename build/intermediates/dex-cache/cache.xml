@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Jan\AndroidStudioProjects\Stepcounter\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Users\Jan\AndroidStudioProjects\Stepcounter\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-53bc78e38e89a0ab53f3618af90d1a0ac37f9d38.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="C:\Users\Jan\AndroidStudioProjects\Stepcounter\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-0f8611f739af563977e9959e00a98a20a148e2c1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jan\AndroidStudioProjects\Stepcounter\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Users\Jan\AndroidStudioProjects\Stepcounter\app\build\intermediates\pre-dexed\debug\classes-a2ff309a59e45d7f77a3a9e0cc112c9ae2dc95e4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jan\AndroidStudioProjects\Stepcounter\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="C:\Users\Jan\AndroidStudioProjects\Stepcounter\app\build\intermediates\pre-dexed\debug\classes-63145a6845ec2329fae5aee2577f8bc2c3ea94b2.jar" />
+    </item>
+
+</items>

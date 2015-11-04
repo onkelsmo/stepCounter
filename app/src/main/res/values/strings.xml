@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Stepcounter</string>
+    <string name="set_back">ZURÜCKSETZEN</string>
+    <string name="empty_counter">000</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+</resources>
